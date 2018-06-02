@@ -12,5 +12,8 @@
     "CICE"
   ],
   "author": "GonzaloCedillo <goncedillo@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "is-porn": "^0.9.0"
+  }
 }
