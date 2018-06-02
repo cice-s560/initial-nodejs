@@ -1,0 +1,16 @@
+{
+  "name": "primer-proyecto",
+  "version": "1.0.0",
+  "description": "Proyecto de test",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "aprendiendo",
+    "NodeJS",
+    "CICE"
+  ],
+  "author": "GonzaloCedillo <goncedillo@gmail.com>",
+  "license": "ISC"
+}
